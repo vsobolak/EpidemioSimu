@@ -1,3 +1,4 @@
-# EpidemioSimu
-This repository is meant to make simulations of an epidemic model and estimations of its parameters.
-It is bound to a project made for a master class.
+## Estimation de paramètres de chaînes de Markov pour modèle d'épidémie
+# Projet Master MIND M1
+
+Ce dépôt Github met à disposition tous les codes qui ont été nécessaires à la réalisation de notre projet.
